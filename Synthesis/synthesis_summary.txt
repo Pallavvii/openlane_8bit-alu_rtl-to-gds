@@ -1,0 +1,10 @@
+Logic Synthesis Summary
+
+Design: 8-bit ALU
+Tool: Yosys
+Environment: MSYS2 (Windows)
+
+- RTL successfully synthesized
+- Generic gate-level netlist generated
+- Synthesis statistics reviewed and validated
+- Netlist used as input to OpenLane physical design flow
