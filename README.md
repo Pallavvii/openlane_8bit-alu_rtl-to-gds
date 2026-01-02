@@ -67,7 +67,7 @@ The design was taken through the following stages:
 
 ## Final Layout Preview
 
-![Final GDS Layout](PhysicalDesign/Screenshots/gds_full_chip.png)
+![Final GDS Layout](Physical Design/Screenshots/gds_full_chip.png)
 
 
 ##  Key Highlights
